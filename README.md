@@ -1,16 +1,11 @@
 # extends_tracker
 
-A new Flutter project.
+App desenvolvido em flutter.
 
-## Getting Started
+## Finalidade
 
-This project is a starting point for a Flutter application.
+Este projeto e um app de despesas onde lhe possibilita a inserção de dados financeiros referente os seus gastos diário, mensais e etc...
 
-A few resources to get you started if this is your first Flutter project:
+O projeto também esta responsivo então ele responde a Auto Rotação do celular e também se adequa ao tema dark dos sitemas IOS e android.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
